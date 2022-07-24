@@ -4,8 +4,8 @@ library(dplyr)
 library(tibble)
 library(janitor)
 
-borough <- 'Kensington and Chelsea'
-time <- '2012'
+borough <- 'all'
+time <- '2018'
 crimetype <- 'all'
 curr <- crimes
 
